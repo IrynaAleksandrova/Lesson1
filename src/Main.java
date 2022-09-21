@@ -1,9 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        int a = 15;
-        int b = 8;
-        int c = 77;
-        System.out.println(a+b*c);
-        System.out.println("Hello world");
+        int a = 21;
+        System.out.println(a);
+        System.out.println("Hello world, I love learning Java");
     }
 }
